@@ -34,3 +34,18 @@ git --version : is to check your installed git version
 git status
 
 git init : initialize git repo
+
+git add :
+
+
+git add <filename> 
+git add .
+
+
+git commit :
+
+git commit -m 'this your message' .
+
+git config user.email 
+
+git config user.name
